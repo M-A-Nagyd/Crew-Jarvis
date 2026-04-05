@@ -27,8 +27,8 @@ This tool transforms a simple prompt into a full codebase, employing a team of A
 Ensure you have Python 3.10+ and Node.js installed. Create a `.env` file in the root directory:
 
 ```env
-OPENROUTER_API_KEY=your_openrouter_api_key
-MODEL_NAME=google/gemini-2.0-flash-lite-preview-02-05:free
+GROQ_API_KEY=your_groq_api_key
+MODEL_NAME=llama3-70b-8192
 ```
 
 ### Installation
