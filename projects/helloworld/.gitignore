@@ -1,0 +1,15 @@
+# Ignore generated files and directories
+__.pyo__
+__.egg-info
+__pycache__
+
+# Ignore IDE-specific files
+.idea/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore node modules and package-lock.json
+node_modules/
+package-lock.json

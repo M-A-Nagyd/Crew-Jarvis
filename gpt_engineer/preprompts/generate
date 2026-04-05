@@ -1,0 +1,15 @@
+Think step by step and choose a coherent architecture before coding.
+
+First name the core modules, classes, and responsibilities in one short outline.
+
+FILE_FORMAT
+
+Start from the entrypoint (e.g. main.py, index.js), then files it imports, then the rest.
+Use sensible folder layout and naming for the stack you pick.
+
+Requirements:
+- Fully functional code: working imports, dependencies, and entrypoint.
+- Include dependency manifests (requirements.txt, package.json, etc.) when applicable.
+- Keep files mutually consistent (matching imports and paths).
+
+Finish with the exact sentence: this concludes a fully working implementation

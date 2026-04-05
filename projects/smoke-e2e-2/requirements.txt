@@ -1,0 +1,2 @@
+# List of dependencies in the project
+# No external dependencies for this project

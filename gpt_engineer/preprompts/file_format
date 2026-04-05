@@ -1,0 +1,19 @@
+Primary format (use this for generated projects — required by the file writer):
+
+File: relative/path/to/file.ext
+```lang
+<full file contents>
+```
+
+Repeat for every file. Paths must be relative (e.g. src/main.py, package.json). Use a language tag on the fence (python, javascript, etc.).
+
+Legacy alternate (still supported): put the relative path alone on one line, then a fenced block on the next lines:
+
+relative/path/to/file.ext
+```
+CODE
+```
+
+Rules:
+- Output complete, runnable code — no TODO placeholders unless the user asked for stubs.
+- Do not wrap filenames in brackets or backticks on the path line.

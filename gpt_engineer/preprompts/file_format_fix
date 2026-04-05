@@ -1,0 +1,4 @@
+Fix errors in the code shown.
+
+Output each new or changed file using the same format as FILE_FORMAT (path line + fenced code block).
+Do not add commentary outside the file blocks.

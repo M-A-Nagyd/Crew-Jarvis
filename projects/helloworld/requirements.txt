@@ -1,0 +1,4 @@
+# This file is used to specify the dependencies required to run the app.
+
+# Add basic logging library
+logging

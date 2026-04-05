@@ -1,0 +1,7 @@
+# List of files and directories to ignore
+venv/
+src/__pycache__/
+tests/__pycache__/
+.DS_Store  # Ignore macOS specific files
+*.log  # Ignore log files
+.DS_Store  # Ignore macOS specific files
